@@ -1,0 +1,99 @@
+[
+  {
+    "id": 1,
+    "day": 1,
+    "english": "easy",
+    "turkish": "kolay",
+    "dutch": "makkelijk",
+    "formality": "Normal",
+    "type": "adjective",
+    "context": [ 
+      { "dutch": "Niet makkelijk, maar het moet.", "english": "Not easy, but it has to be done."},
+      { "dutch": "De Noordpool bereiken is niet makkelijk.", "english": "To reach the North Pole is not easy."},
+      { "dutch": "Een vreemde taal leren is makkelijk.", "english": "It is easy to learn a foreign language."}
+    ],
+    "suggestions": [ 
+      "heel makkelijk",
+      "makkelijk te vinden",
+      "erg makkelijk",
+      "makkelijk voor",
+      "was niet makkelijk",
+      "makkelijk was",
+      "dat is makkelijk",
+      "dat het makkelijk"
+    ]
+  },
+  {
+    "id": 2,
+    "day": 1,
+    "english": "difficult",
+    "turkish": "zor",
+    "dutch": "moeilijk",
+    "formality": "Normal",
+    "type": "adjective",
+    "context": [
+      { "dutch": "Het was een moeilijk maar tegelijkertijd noodzakelijk en verantwoordelijk besluit.", "english": "It was a difficult, but at the same time, necessary and responsible decision."},
+      { "dutch": "Grootschalige landbouw en behoud van biodiversiteit gaan moeilijk samen.", "english": "Large-scale agriculture and the conservation of biodiversity are a difficult match."},
+      { "dutch": "Hij was evenwel moeilijk te begrijpen.", "english": "It was hard to understand him, though."}
+    ],
+    "suggestions": [
+      "moeilijk te vinden",
+      "moeilijk voor",
+      "heel moeilijk",
+      "erg moeilijk",
+      "dat het moeilijk",
+      "moeilijk te geloven",
+      "was moeilijk",
+      "zeer moeilijk"
+    ]
+  },
+  {
+    "id": 3,
+    "day": 1,
+    "english": "to believe",
+    "turkish": "inanmak",
+    "dutch": "geloven",
+    "type": "verb",
+    "formality": "Normal",
+    "context": [
+      { "dutch": "De Commissie blijft geloven in betaalbare talen- en vertaalregimes.", "english": "The Commission continues to believe in affordable language and translation regimes."},
+      { "dutch": "Dit is althans wat wij Finnen willen geloven.", "english": "That, at least, is what we Finns want to believe."},
+      { "dutch": "Dat vind ik moeilijk te geloven.", "english": "That's a tough one for me to understand, you know."}
+    ],
+    "suggestions": [
+      "geloven in",
+      "geloven dat",
+      "moeilijk te geloven",
+      "laten geloven",
+      "dat geloven",
+      "doen geloven",
+      "zien is geloven"
+    ]
+  },
+  {
+    "id": 4,
+    "day": 1,
+    "english": "book",
+    "turkish": "kitap",
+    "dutch": "boek",
+    "type": "noun",
+    "dutchNounProposition": "het",
+    "formality": "Normal",
+    "context": [
+      { "dutch": "Ik ga dat boek van Carol lezen.", "english": "But I'm in the middle of a great book that Carol lent me."},
+      { "dutch": "Eindelijk hebben we het boek gevonden.", "english": "At long last we have found the book."},
+      { "dutch": "Chatterjees volgende boek, Devi Chaudhurani werd in 1884 gepubliceerd.", "english": "Chattopadhyay's next novel, Devi Chaudhurani, was published in 1884.\n"}
+    ],
+    "suggestions": [
+      "dat boek",
+      "boek over",
+      "boek dat",
+      "boek gelezen",
+      "m'n boek",
+      "boek online",
+      "boek nu",
+      "boek je eenvoudig de beste"
+    ]
+  }
+
+]
